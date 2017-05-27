@@ -1,0 +1,50 @@
+<?php return array (
+  'preserve_keys' => true,
+  'update_object' => false,
+  'unique_key' => 'text',
+  'related_objects' => 
+  array (
+    'Action' => 
+    array (
+      '49d32bb6b260c548a46520e02af92be0' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => false,
+        'unique_key' => 
+        array (
+          0 => 'namespace',
+          1 => 'controller',
+        ),
+        'class' => 'modAction',
+        'object' => '{"id":0,"namespace":"tickets","controller":"index","haslayout":1,"lang_topics":"tickets:default","assets":"","help_url":"","parent":0}',
+        'guid' => '58f101571e1a74220fa18d12b8e7893a',
+        'native_key' => 0,
+        'signature' => '4bc971c860bca21264d0c1b27994a2cd',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Action' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => false,
+      'unique_key' => 
+      array (
+        0 => 'namespace',
+        1 => 'controller',
+      ),
+    ),
+  ),
+  'namespace' => 'tickets',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b141ba0e0e072da658da427efd7329ba',
+  'package' => 'modx',
+  'class' => 'modMenu',
+  'signature' => 'a98afff6166af474cbaa34805f8e1ad8',
+  'native_key' => 'tickets',
+  'object' => '{"text":"tickets","parent":"components","action":0,"description":"ticket_menu_desc","icon":"images\\/icons\\/plugin.gif","menuindex":0,"params":"","handler":"","permissions":"","namespace":"core"}',
+);

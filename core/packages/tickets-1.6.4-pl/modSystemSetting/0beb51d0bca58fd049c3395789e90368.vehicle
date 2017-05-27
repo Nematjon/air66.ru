@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tickets',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2fc0c28c49acf75f1095a271915e2570',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0beb51d0bca58fd049c3395789e90368',
+  'native_key' => 'tickets.ticket_max_cut',
+  'object' => '{"key":"tickets.ticket_max_cut","value":1000,"xtype":"numberfield","namespace":"tickets","area":"tickets.ticket","editedon":null}',
+);

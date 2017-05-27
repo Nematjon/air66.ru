@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tickets',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '089ea3ebac326322d21e2dfeec566c98',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '7486c6993a3d7ed6f37b561354f5bbdf',
+  'native_key' => 'tickets.unpublished_ticket_page',
+  'object' => '{"key":"tickets.unpublished_ticket_page","value":0,"xtype":"numberfield","namespace":"tickets","area":"tickets.ticket","editedon":null}',
+);

@@ -1,0 +1,2 @@
+[16-Jun-2015 01:27:24 UTC] PHP Warning:  require_once(MODX_BASE_PATHcore/config/config.inc.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/frukt165/public_html/land/assets/csv.php on line 4
+[16-Jun-2015 01:27:24 UTC] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'MODX_BASE_PATHcore/config/config.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/frukt165/public_html/land/assets/csv.php on line 4

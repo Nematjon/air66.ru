@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'msearch2',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '87c9fcbbafec4c39017786346b2acf11',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c21360605271d7d62c8f2b827277cd92',
+  'native_key' => 'mse2_frontend_css',
+  'object' => '{"key":"mse2_frontend_css","value":"[[+cssUrl]]web\\/default.css","xtype":"textfield","namespace":"msearch2","area":"mse2_main","editedon":null}',
+);

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'office',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '2d1781b11ab7a5d528a1aec2f604b64e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '88d3f5e20ad4e1293f39468e9096bfbc',
+  'native_key' => 'office_ms2_frontend_js',
+  'object' => '{"key":"office_ms2_frontend_js","value":"[[+jsUrl]]minishop2\\/default.js","xtype":"textfield","namespace":"office","area":"office_ms2","editedon":null}',
+);

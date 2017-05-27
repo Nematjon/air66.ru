@@ -1,0 +1,8 @@
+[09-Jun-2015 13:54:24 UTC] PHP Fatal error:  Call to undefined method stdClass::run() in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 18
+[09-Jun-2015 13:54:27 UTC] PHP Fatal error:  Call to undefined method stdClass::run() in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 18
+[09-Jun-2015 14:00:19 UTC] PHP Fatal error:  Cannot use object of type modX as array in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 22
+[09-Jun-2015 14:00:22 UTC] PHP Fatal error:  Cannot use object of type modX as array in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 22
+[09-Jun-2015 14:01:03 UTC] PHP Fatal error:  Cannot use object of type modX as array in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 22
+[09-Jun-2015 14:01:05 UTC] PHP Fatal error:  Cannot use object of type modX as array in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 22
+[09-Jun-2015 14:01:19 UTC] PHP Fatal error:  Cannot use object of type modX as array in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 22
+[09-Jun-2015 14:01:52 UTC] PHP Fatal error:  Cannot use object of type modX as array in /home/frukt165/public_html/land/core/cache/includes/elements/modsnippet/61.include.cache.php on line 22

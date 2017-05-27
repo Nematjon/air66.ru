@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tickets',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a0ab3d2c8a4716af5af69980dd42a252',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ee8d29c370842eb6c217476a4e7b60d7',
+  'native_key' => 'tickets.date_format',
+  'object' => '{"key":"tickets.date_format","value":"%d.%m.%y <small>%H:%M<\\/small>","xtype":"textfield","namespace":"tickets","area":"tickets.main","editedon":null}',
+);

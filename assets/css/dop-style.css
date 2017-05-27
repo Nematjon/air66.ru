@@ -1,0 +1,132 @@
+body {
+  font: 125% Arial,sans-serif;
+}
+* {
+  -webkit-box-sizing: content-box !important;
+  -moz-box-sizing: content-box !important;
+  box-sizing: content-box !important;
+}
+ol, ul {
+  margin-top: 0;
+  margin-bottom: 0px;
+}
+#wrapper {
+  width: 99%;
+  margin: 0 auto;
+}
+.container {
+  width: 100%;
+}
+.main-catalog {
+  overflow: inherit;
+}
+a.comparison-remove.comparison-link {
+  position: absolute !important;
+  line-height: 1 !important;
+  font-size: 11px !important;
+  left: 10px !important;
+  top: 36px !important;
+}
+.comparison .comparison-add {
+  line-height: 1 !important;
+}
+.added:hover a.comparison-remove.comparison-link {
+  display: block !important;
+}
+.rating a.comparison-remove.comparison-link {
+  display: none !important;
+}
+.box.visible .prop tr:nth-child(odd) {
+  background:#f0f0f0;
+}
+table.prop tr:nth-child(odd) td:first-child {
+  border-right: 1px solid #e0e0e0;
+}
+
+.btn-blck .btn button{
+    height: 31px;
+  width: 108px;
+  cursor: pointer;
+  display: block;
+  line-height: 1;
+  margin: 1px auto 3px;
+}
+.btn-blck button.btn.btn-default {
+  text-indent: 0;
+  line-height: 38px;
+}
+.well {
+  min-height: 0;
+  padding: 0;
+  margin-bottom: 20px;
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+.search .btn {
+  background: url("http://moskva-split.ru/images/split/enter.gif") no-repeat center center;
+  text-indent: -9999;
+  border: 0;
+  margin-left: 10px;
+}
+input.search_input.empty {
+    border: 1px solid;
+  padding: 2px;
+}
+div.item_delimiter {
+  background:none;
+  border-top: 1px dotted silver;
+}
+div.table.item div.button .add2order {
+  text-indent: 0;
+  height: 40px;
+  padding-top: 0px;
+}
+div.table.item {
+  margin: 10px 0;
+  width: 661px;
+}
+.top p {
+  padding-left: 3px;
+}
+.ms2_product .price {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.presence-icon {
+  vertical-align: initial;
+}
+.catalog-right div.top, .row-catalog .column-right div.topf p {
+  padding: 0;
+}
+fieldset {
+  padding: .35em .625em .75em;
+}
+.item_delimiter td .comparison.added .comparison-remove {
+  position: relative !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  top: 2px !important;
+  left: 0px !important;
+}
+.item_delimiter td .comparison.added:hover .comparison-remove.comparison-link {
+  display: inline-block !important;
+}
+.product_code_search form#mse2_form {
+  display: inline-block;
+}
+.item_delimiter td .comparison-total, .item_delimiter td a.comparison-go {
+  font-size: 12px;
+  top: 5px;
+  display: inline-block;
+  position: relative;
+}
+.comparison-head a.comparison-remove.comparison-link {
+  position: relative !important;
+  top: 0 !important;
+}
+table.prop td p {
+  margin:0;
+}

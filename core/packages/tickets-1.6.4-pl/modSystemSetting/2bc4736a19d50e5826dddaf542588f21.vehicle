@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'tickets',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bdc59411a8c92c36d750b2d193eb57ae',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '2bc4736a19d50e5826dddaf542588f21',
+  'native_key' => 'tickets.enable_editor',
+  'object' => '{"key":"tickets.enable_editor","value":true,"xtype":"combo-boolean","namespace":"tickets","area":"tickets.main","editedon":null}',
+);
